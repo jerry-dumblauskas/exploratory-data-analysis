@@ -1,2 +1,2 @@
 # exploratory-data-analysis
-coursera class in xploratory-data-analysis
+coursera class in exploratory-data-analysis
